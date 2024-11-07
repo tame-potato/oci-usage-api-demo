@@ -1,0 +1,2 @@
+# OCI PYTHON SDK USAGE API DEMO
+This demo is intended to demonstrate how to use the OCI Python SDK usage api methods to query usage or cost from an OCI tenancy. The demo visualizes two different queries one including data from all the child tenancies in the parent tenancy's organization while the other only pulls data for the parent tenancy itself by filtering out all data that does not originate from the parent tenancies OCID.
